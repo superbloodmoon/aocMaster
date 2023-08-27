@@ -1,4 +1,4 @@
-fileData = open('d1data.txt', 
+fileData = open('data.txt', 
                'r')
 
 largest = []
